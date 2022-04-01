@@ -1,0 +1,7 @@
+.idea/
+Entities/bin/
+Entities/obj/
+Entities.Sandbox/bin/
+Entities.Sandbox/obj/
+
+*.DS_Store
