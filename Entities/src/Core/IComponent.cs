@@ -1,9 +1,8 @@
-namespace Entities.Core
+namespace Entities.Core;
+
+public interface IComponent
 {
-    public interface IComponent
-    {
-        void OnAdd();
-        void OnRemove();
-        void OnDestroy();
-    }
+    void OnAdd();
+    void OnRemove();
+    void OnDestroy();
 }
