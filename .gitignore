@@ -3,5 +3,7 @@ Entities/bin/
 Entities/obj/
 Entities.Sandbox/bin/
 Entities.Sandbox/obj/
+Entities.Test/StrykerOutput/
 
 *.DS_Store
+*.DotSettings.user
