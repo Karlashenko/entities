@@ -4,6 +4,9 @@ Entities/obj/
 Entities.Sandbox/bin/
 Entities.Sandbox/obj/
 Entities.Test/StrykerOutput/
+Entities.Test/bin/
+Entities.Test/obj/
 
 *.DS_Store
 *.DotSettings.user
+*.deps.json
